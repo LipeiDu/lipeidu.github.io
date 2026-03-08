@@ -1,64 +1,76 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Lipei Du"
+excerpt: "Personal homepage"
+published: true
+author_profile: false
 ---
 
+# Lipei Du
 
+Postdoctoral Scholar  
+UC Berkeley and Lawrence Berkeley National Laboratory
 
-**This personal website was published online on August 26, 2018. To be updated.**
+Email: [lipei.du@berkeley.edu](mailto:lipei.du@berkeley.edu) and [ldu2@lbl.gov](mailto:ldu2@lbl.gov)
 
-# Brief introduction
+<img src="/images/ldu_2026.JPG" alt="Lipei Du" style="max-width: 320px; width: 100%; height: auto;" />
 
-**Experience**
+## Research
 
-- Sep. 2021 - present, Postdoc, McGill U. (lipei.du at mail.mcgill.ca)
-- Aug. 2015 - Aug. 2021, Ph.D., Ohio State U. (du.458 at osu.edu)
+I work on the theoretical physics of relativistic heavy-ion collisions, with the goal of understanding the properties of the Quark-Gluon Plasma (QGP) created in high-energy nuclear collisions.
 
-**Research**
+My research combines:
+- Multistage dynamical modeling
+- Hydrodynamics and transport theory
+- Electromagnetic probes
+- Bayesian inference and machine learning
 
-- [InspireHEP](https://inspirehep.net/authors/1280397?ui-citation-summary=true)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=sqcL4pQAAAAJ&view_op=list_works)
+This program helps extract properties of QCD matter from experimental data. My current work focuses on multi-messenger probes of the QGP, integrating hadrons, jets, and electromagnetic observables in the JETSCAPE Bayesian analysis framework.
 
-<img src="/images/Lipei_Du.png" style="width:400px;" />
+## Position and Education
 
-December 30, 2017 @ Ohio State U.
+### Positions
 
+**Postdoctoral Scholar**  
+UC Berkeley and Lawrence Berkeley National Laboratory  
+2024-present  
+Advisor: Peter Jacobs
 
+**Postdoctoral Researcher**  
+McGill University  
+2021-2024  
+Advisors: Charles Gale, Sangyong Jeon
 
-I'm a member of two collaborations, [BEST Collaboration](https://www.bnl.gov/physics/best/) and [JETSCAPE Collaboration](http://jetscape.wayne.edu/), working on the physics of relativistic heavy-ion collisions. My research is basically based on the frameworks of these two collaborations. 
+### Education
 
-Collaborations
-======
+**Ph.D. in Physics**  
+The Ohio State University, 2021  
+Advisor: Ulrich Heinz  
+Thesis: *Hydrodynamic description of the baryon-charged quark-gluon plasma*
 
-Descriptions below are taken from the websites of the collaborations.
+## Honors
 
-**BEST Collaboration**
+- RHIC and AGS Merit Award (2025) for contributions to hydrodynamics, critical phenomena, electromagnetic probes of baryon-rich matter, and baryon stopping
+- Oral Presentation Prize, International Conference on Nucleus-Nucleus Collisions (2024)
+- McGill Postdoctoral Teaching Excellence Award (2023)
 
-The Beam Energy Scan Theory (BEST) Collaboration is a Topical Collaboration in Nuclear Theory, funded by the US Department of Energy, Office of Science, Office of Nuclear Physics for the period 2016-2020.
+## Selected Invited and Plenary Talks
 
+- **Strangeness in Quark Matter 2026** (Invited Plenary)  
+  *Theory Overview: Dynamical Model Simulations for Heavy-Ion Collisions*
+- **Initial Stages 2025** (Invited Plenary)  
+  *Declined for travel constraints*
+- **Hard Probes 2024** (Invited Plenary)  
+  *Electromagnetic and Weak Probes: Theory*
+- **CPOD 2024** (Invited Plenary)  
+  *Theory Overview on Collectivity*
 
-**JETSCAPE Collaboration**
+## Selected Publications
 
-The Jet Energy-loss Tomography with a Statistically and Computationally Advanced Program Envelope (JETSCAPE) collaboration is an NSF funded multi-institutional effort to design the next generation of event generators to simulate the physics of ultra-relativistic heavy-ion collisions. It involves teams of theoretical and experimental physicists, computer scientists, and statisticians from nine institutions.
+For a full publication list: [INSPIRE-HEP author profile](https://inspirehep.net/authors/1280397?ui-citation-summary=true).
 
+## Collaborations
 
-Research Interests
-======
-* Dynamical initialization of hybrid models of heavy-ion collisions
-* Baryon transportation in heavy-ion collisions
-* Hydrodynamic description of Quark-Gluon Plasma with fluctuations
-* Jet-medium interaction
-
-
-
-<img src="/images/Du_talk.JPG" style="width:400px;" />
-
-November 19, 2019 @ Peking University
-
-
-
+- [JETSCAPE Collaboration](http://jetscape.org/)
+- [Bayesian Uncertainty Quantification (UQ) Project](https://sites.google.com/lbl.gov/bayesianuqproject)
+- [BEST Collaboration](https://www.bnl.gov/physics/best/)

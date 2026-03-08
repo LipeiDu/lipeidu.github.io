@@ -182,13 +182,13 @@ collections:
     output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
   literature:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -200,6 +200,7 @@ defaults:
       type: posts
     values:
       layout: single
+      published: false
       author_profile: true
       read_time: true
       comments: false
@@ -210,8 +211,9 @@ defaults:
       path: ""
       type: pages
     values:
+      published: false
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
