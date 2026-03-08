@@ -3,6 +3,7 @@ permalink: /
 excerpt: "Personal homepage"
 published: true
 author_profile: true
+show_title: false
 ---
 
 
