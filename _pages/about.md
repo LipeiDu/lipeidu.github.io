@@ -3,7 +3,7 @@ permalink: /
 title: "Lipei Du"
 excerpt: "Personal homepage"
 published: true
-author_profile: false
+author_profile: true
 ---
 
 # Lipei Du
@@ -12,8 +12,6 @@ Postdoctoral Scholar
 UC Berkeley and Lawrence Berkeley National Laboratory
 
 Email: [lipei.du@berkeley.edu](mailto:lipei.du@berkeley.edu) and [ldu2@lbl.gov](mailto:ldu2@lbl.gov)
-
-<img src="/images/ldu_2026.JPG" alt="Lipei Du" style="max-width: 320px; width: 100%; height: auto;" />
 
 ## Research
 

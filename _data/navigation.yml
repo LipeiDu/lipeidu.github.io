@@ -1,2 +1,4 @@
-# Main navigation intentionally left empty for a single-page site.
-main: []
+# Main navigation
+main:
+  - title: "Home"
+    url: /
