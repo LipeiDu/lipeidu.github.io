@@ -5,10 +5,7 @@ published: true
 author_profile: true
 ---
 
-## Lipei Du
 
-Postdoctoral Scholar  
-UC Berkeley and Lawrence Berkeley National Laboratory
 
 ## Research
 
