@@ -1,17 +1,14 @@
 ---
 permalink: /
-title: "Lipei Du"
 excerpt: "Personal homepage"
 published: true
 author_profile: true
 ---
 
-# Lipei Du
+
 
 Postdoctoral Scholar  
 UC Berkeley and Lawrence Berkeley National Laboratory
-
-Email: [lipei.du@berkeley.edu](mailto:lipei.du@berkeley.edu) and [ldu2@lbl.gov](mailto:ldu2@lbl.gov)
 
 ## Research
 
@@ -57,6 +54,8 @@ Thesis: *Hydrodynamic description of the baryon-charged quark-gluon plasma*
 - **Strangeness in Quark Matter 2026** (Invited Plenary)  
   *Theory Overview: Dynamical Model Simulations for Heavy-Ion Collisions*
 - **Initial Stages 2025** (Invited Plenary)  
+  *Declined for travel constraints*
+- **ATHIC 2025** (Invited Plenary)  
   *Declined for travel constraints*
 - **Hard Probes 2024** (Invited Plenary)  
   *Electromagnetic and Weak Probes: Theory*
