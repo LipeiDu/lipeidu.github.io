@@ -1,7 +1,9 @@
 ---
 layout: single
-title: "Travel Map"
-permalink: /travel-map/
+title: "Travel"
+permalink: /travel/
+redirect_from:
+  - /travel-map/
 published: true
 author_profile: true
 ---
@@ -13,7 +15,6 @@ author_profile: true
 
 <div class="travel-map-intro">
   <p>This page tracks academic events and presentations in one timeline (newest to oldest).</p>
-  <p>Privacy rule: records in China since 2024 are shown as city/year only.</p>
 </div>
 
 <div class="travel-map-controls">

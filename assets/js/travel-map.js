@@ -96,6 +96,15 @@
     return row.category || "event";
   }
 
+  function formatDateRange(row) {
+    var start = row.sort_date || "";
+    if (row.record_type === "event") {
+      var end = row.end_date || start;
+      return start + " to " + end;
+    }
+    return start;
+  }
+
   function escapeHtml(s) {
     return (s || "")
       .replace(/&/g, "&amp;")
@@ -124,24 +133,27 @@
 
       var popup = "<strong>" + escapeHtml(displayTitle(row)) + "</strong><br>" +
         escapeHtml(displayLocation(row)) + "<br>" +
-        escapeHtml(row.sort_date) + " · " + escapeHtml(formatType(row));
+        escapeHtml(formatDateRange(row)) + " · " + escapeHtml(formatType(row));
 
       var marker = L.marker(coords, { title: displayTitle(row) });
       marker.bindPopup(popup);
       markers.addLayer(marker);
     });
 
+    var listRows = filtered.filter(function (row) {
+      return !redact(row);
+    });
+
     var tbody = document.querySelector("#travelTable tbody");
-    tbody.innerHTML = filtered.map(function (row) {
+    tbody.innerHTML = listRows.map(function (row) {
       var title = displayTitle(row);
       var loc = displayLocation(row);
       var type = formatType(row);
       var status = row.status || "";
-      var muted = redact(row) ? " class='travel-muted'" : "";
       return "<tr>" +
-        "<td>" + escapeHtml(row.sort_date) + "</td>" +
+        "<td>" + escapeHtml(formatDateRange(row)) + "</td>" +
         "<td>" + escapeHtml(type) + "</td>" +
-        "<td" + muted + ">" + escapeHtml(title) + "</td>" +
+        "<td>" + escapeHtml(title) + "</td>" +
         "<td>" + escapeHtml(loc) + "</td>" +
         "<td>" + escapeHtml(status) + "</td>" +
       "</tr>";
@@ -152,7 +164,7 @@
     }));
 
     document.getElementById("travelStats").textContent =
-      filtered.length + " records shown · " + places.size + " mapped locations";
+      listRows.length + " list records shown · " + filtered.length + " map records · " + places.size + " mapped locations";
   }
 
   function bindControls() {

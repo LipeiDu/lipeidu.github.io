@@ -2,5 +2,5 @@
 main:
   - title: "Home"
     url: /
-  - title: "Travel Map"
-    url: /travel-map/
+  - title: "Travel"
+    url: /travel/
