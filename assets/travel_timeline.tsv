@@ -1,0 +1,119 @@
+sort_date	record_type	category	status	display_title	presentation_title	presentation_type	location_display	city	country	online	privacy_redacted	source
+2025-12-15	event	meeting	attended	The JETSCAPE/X-SCAPE Collaboration Meeting 2025			Durham, NC, USA	Durham	USA	no	no	cv_conferences_meetings_schools
+2025-10-28	presentation	talk	given	The QCD Critical Point: Are We There Yet?	Electromagnetic probes and QCD critical point	contributed talk	Seattle, WA, USA	Seattle	USA	no	no	cv_presentations
+2025-10-27	event	workshop	attended	The QCD Critical Point: Are We There Yet?			Seattle, WA, USA	Seattle	USA	no	no	cv_conferences_meetings_schools
+2025-09-15	event	workshop	attended				Beijing, China	Beijing	China	no	yes	cv_conferences_meetings_schools
+2025-08-26	presentation	seminar	given	Ohio State physics seminar	Multi-messenger study of QCD matter at finite baryon density in heavy-ion collisions	seminar	Columbus, OH, USA	Columbus	USA	no	no	cv_presentations
+2025-08-25	event	seminar	attended	Ohio State physics seminar			Columbus, OH, USA	Columbus	USA	no	no	cv_conferences_meetings_schools
+2025-05-20	presentation	talk	given	2025 RHIC/AGS Annual Users' Meeting	Theory Overview on Beam Energy Scan	contributed talk	Upton, NY, USA	Upton	USA	no	no	cv_presentations
+2025-05-20	event	meeting	attended	2025 RHIC/AGS Annual Users' Meeting			Upton, NY, USA	Upton	USA	no	no	cv_conferences_meetings_schools
+2025-01-01	event	conference	declined	Initial Stages 2025			Declined			no	no	cv_conferences_meetings_schools
+2025-01-01	event	conference	declined	ATHIC 2025			Declined			no	no	cv_conferences_meetings_schools
+2024-12-16	event	workshop	attended	JETSCAPE Bayesian work week			Berkeley, CA, USA	Berkeley	USA	no	no	cv_conferences_meetings_schools
+2024-09-26	presentation	plenary	given	Hard Probes 2024	Electromagnetic and Weak Probes: Theory	plenary talk	Nagasaki, Japan	Nagasaki	Japan	no	no	cv_presentations
+2024-09-22	event	conference	attended	Hard Probes 2024			Nagasaki, Japan	Nagasaki	Japan	no	no	cv_conferences_meetings_schools
+2024-08-22	presentation	talk	given	NN 2024	Multi-observable analysis of jet quenching using Bayesian Inference	contributed talk	Whistler, BC, Canada	Whistler	Canada	no	no	cv_presentations
+2024-08-18	event	conference	attended	NN 2024			Whistler, BC, Canada	Whistler	Canada	no	no	cv_conferences_meetings_schools
+2024-07-01	presentation	seminar	given			seminar	Shanghai, China	Shanghai	China	no	yes	cv_presentations
+2024-06-28	presentation	seminar	given			seminar	Shanghai, China	Shanghai	China	no	yes	cv_presentations
+2024-06-27	presentation	seminar	given			seminar	Shanghai, China	Shanghai	China	no	yes	cv_presentations
+2024-06-23	presentation	seminar	given			seminar	Guangzhou, China	Guangzhou	China	no	yes	cv_presentations
+2024-06-18	presentation	seminar	given			seminar	Qingdao, China	Qingdao	China	no	yes	cv_presentations
+2024-06-14	presentation	seminar	given			seminar	Beijing, China	Beijing	China	no	yes	cv_presentations
+2024-06-13	presentation	talk	given			contributed talk	Beijing, China	Beijing	China	no	yes	cv_presentations
+2024-06-12	presentation	seminar	given			seminar	Beijing, China	Beijing	China	no	yes	cv_presentations
+2024-06-11	event	workshop	attended				Beijing/Qingdao/Guangzhou/Shanghai, China	Beijing	China	no	yes	cv_conferences_meetings_schools
+2024-06-05	presentation	seminar	given			seminar	Dalian, China	Dalian	China	no	yes	cv_presentations
+2024-05-28	presentation	seminar	given			seminar	Beijing, China	Beijing	China	no	yes	cv_presentations
+2024-05-20	presentation	plenary	given	CPOD 2024	Theory Overview on Collectivity	plenary talk	Berkeley, CA, USA	Berkeley	USA	no	no	cv_presentations
+2024-05-20	event	conference	attended	CPOD 2024			Berkeley, CA, USA	Berkeley	USA	no	no	cv_conferences_meetings_schools
+2024-01-24	presentation	talk	given	The 1st workshop on Baryon Dynamics from RHIC to EIC	Baryon stopping: Nucleon deceleration vs String junction breaking	contributed talk	Stony Brook, NY, USA	Stony Brook	USA	no	no	cv_presentations
+2024-01-22	event	workshop	attended	The 1st workshop on Baryon Dynamics from RHIC to EIC			Stony Brook, NY, USA	Stony Brook	USA	no	no	cv_conferences_meetings_schools
+2024-01-10	presentation	seminar	given			seminar	Online	Online	Online	yes	yes	cv_presentations
+2023-12-07	presentation	seminar	given	LBNL Seminar	Probing longitudinal dynamics of heavy-ion collisions at Beam Energy Scan	seminar	Online	Online	Online	yes	no	cv_presentations
+2023-10-24	presentation	seminar	given	BEST Collaboration BES-Tea Seminar	Thermal dilepton production in heavy-ion collisions at Beam Energy Scan energies	seminar	Online	Online	Online	yes	no	cv_presentations
+2023-09-27	event	meeting	attended	The JETSCAPE/X-SCAPE Collaboration Meeting 2023			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2023-09-18	presentation	seminar	given	JETSCAPE Collaboration SIMS meeting	Thermal dilepton production in heavy-ion collisions at Beam Energy Scan energies	seminar	Online	Online	Online	yes	no	cv_presentations
+2023-09-05	presentation	talk	given	Quark Matter 2023	Probing initial baryon stopping and equation of state with rapidity-dependent directed flow of identified particles	contributed talk	Houston, TX, USA	Houston	USA	no	no	cv_presentations
+2023-09-03	event	conference	attended	Quark Matter 2023			Houston, TX, USA	Houston	USA	no	no	cv_conferences_meetings_schools
+2023-08-23	presentation	talk	given	Chirality and Criticality: Novel Phenomena in Heavy-Ion Collisions	Bulk dynamics and rapidity scan at Beam Energy Scan	contributed talk	Seattle, WA, USA	Seattle	USA	no	no	cv_presentations
+2023-08-21	event	workshop	attended	Chirality and Criticality: Novel Phenomena in Heavy-Ion Collisions			Seattle, WA, USA	Seattle	USA	no	no	cv_conferences_meetings_schools
+2023-08-02	presentation	talk	given	2023 RHIC/AGS Annual Users' Meeting	Longitudinal Dynamics of Heavy-Ion Collisions at Beam Energy Scan	contributed talk	Upton, NY, USA	Upton	USA	no	no	cv_presentations
+2023-08-01	event	meeting	attended	2023 RHIC/AGS Annual Users' Meeting			Upton, NY, USA	Upton	USA	no	no	cv_conferences_meetings_schools
+2023-07-11	presentation	talk	given	The Many Faces of Relativistic Fluid Dynamics	Exploring Initial and Final Baryon Distributions in Heavy-Ion Collisions at Beam Energy Scan	contributed talk	Santa Barbara, CA, USA	Santa Barbara	USA	no	no	cv_presentations
+2023-07-05	event	workshop	attended	The Many Faces of Relativistic Fluid Dynamics			Santa Barbara, CA, USA	Santa Barbara	USA	no	no	cv_conferences_meetings_schools
+2023-06-01	presentation	seminar	given	Peking University seminar	Exploring initial and final baryon distributions in heavy-ion collisions at Beam Energy Scan	seminar	Beijing, China	Beijing	China	no	no	cv_presentations
+2023-05-31	presentation	seminar	given	Tsinghua University seminar	Exploring initial and final baryon distributions in heavy-ion collisions at Beam Energy Scan	seminar	Beijing, China	Beijing	China	no	no	cv_presentations
+2023-05-18	presentation	seminar	given	Fudan University seminar	Exploring initial and final baryon distributions in heavy-ion collisions at Beam Energy Scan	seminar	Shanghai, China	Shanghai	China	no	no	cv_presentations
+2023-05-17	presentation	seminar	given	Central China Normal University seminar	Exploring initial and final baryon distributions in heavy-ion collisions at Beam Energy Scan	seminar	Wuhan, China	Wuhan	China	no	no	cv_presentations
+2023-05-07	event	conference	attended	National Conference on Intermediate and High Energy Nuclear Physics			Guangzhou, China	Guangzhou	China	no	no	cv_conferences_meetings_schools
+2023-04-30	presentation	talk	given	Workshop on Highly Baryonic Matter at RHIC-BES and Future Facilities	Rapidity scan with multistage hydrodynamic and statistical thermal models	contributed talk	Tsukuba, Japan	Tsukuba	Japan	no	no	cv_presentations
+2023-04-29	event	workshop	attended	Workshop on Highly Baryonic Matter at RHIC-BES and Future Facilities			Tsukuba, Japan	Tsukuba	Japan	no	no	cv_conferences_meetings_schools
+2023-04-24	event	conference	attended	ATHIC 2023			Hiroshima, Japan	Hiroshima	Japan	no	no	cv_conferences_meetings_schools
+2022-12-09	presentation	seminar	given	Central China Normal University International Young Scholars Forum 2022	Theoretical modeling of heavy-ion collisions at Beam Energy Scan energies	seminar	Online	Online	Online	yes	no	cv_presentations
+2022-11-29	presentation	talk	given	CPOD 2022	Probing initial baryon stopping and equation of state with rapidity-dependent directed flow of identified particles	contributed talk	Online	Online	Online	yes	no	cv_presentations
+2022-11-28	event	conference	attended	CPOD 2022			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2022-08-18	event	workshop	attended	Berkeley Symposium on Hard Probes and Beyond			Hybrid	Hybrid	Hybrid	no	no	cv_conferences_meetings_schools
+2022-07-25	presentation	lecture	lecturer	JETSCAPE Summer School 2022	Bulk dynamics of the Quark-Gluon Plasma	invited lecture	Online	Online	Online	yes	no	cv_presentations
+2022-07-25	event	school	lecturer	JETSCAPE Summer School 2022			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2022-04-19	presentation	seminar	given	RHIC Beam Energy Scan seminar series	Hydrodynamics near the QCD critical point	seminar	Online	Online	Online	yes	no	cv_presentations
+2022-04-04	event	conference	attended	Quark Matter 2022			Hybrid/Krakow, Poland	Krakow	Poland	no	no	cv_conferences_meetings_schools
+2022-01-25	event	workshop	attended	RBRC Workshop: Physics Opportunities from the RHIC Isobar Run			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-12-13	event	conference	attended	Information and Statistics in Nuclear Experiment and Theory conference			Hybrid	Hybrid	Hybrid	no	no	cv_conferences_meetings_schools
+2021-11-15	presentation	seminar	given	UIUC Medium and High Energy Physics Seminar	Hydrodynamic description of the baryon-charged quark-gluon plasma	seminar	Online	Online	Online	yes	no	cv_presentations
+2021-11-01	presentation	seminar	given	BEST Collaboration BES-Tea seminar	Baryon transport and the QCD critical point	seminar	Online	Online	Online	yes	no	cv_presentations
+2021-10-26	presentation	seminar	given	McGill nuclear theory seminar	Hydrodynamic description of the baryon-charged quark-gluon plasma	seminar	Montreal, QC, Canada	Montreal	Canada	no	no	cv_presentations
+2021-10-11	event	meeting	attended	APS DNP Meeting 2021			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-08-16	event	workshop	attended	RHIC Beam Energy Scan and Beyond			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-08-02	event	meeting	attended	The JETSCAPE/X-SCAPE Collaboration Meeting 2021			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-07-19	event	school	ta	JETSCAPE Summer School 2021			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-06-08	event	meeting	attended	RHIC/AGS Annual Users' Meeting 2021			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-05-26	event	workshop	attended	Workshop on QGP Phenomenology			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-05-17	event	conference	attended	Strangeness in Quark Matter 2021			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-03-17	presentation	talk	given	CPOD 2021	Baryon diffusion away from and close to the QCD critical point	contributed talk	Online	Online	Online	yes	no	cv_presentations
+2021-03-15	event	conference	attended	CPOD 2021			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-02-04	event	workshop	attended	Opportunities of O-O and p-O collisions at the LHC			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2021-01-13	presentation	talk	given	Initial Stages 2021	Dynamical initialization of hydrodynamics for heavy-ion collisions at Beam Energy Scan energies	contributed talk	Online	Online	Online	yes	no	cv_presentations
+2021-01-10	event	conference	attended	Initial Stages 2021			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-12-14	event	workshop	attended	Relativistic Hydrodynamics: Foundations, Novel Applications and Interdisciplinary Connections			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-11-30	presentation	seminar	given	JETSCAPE Collaboration PHYS meeting	Jet-medium interaction at non-zero net baryon density	seminar	Online	Online	Online	yes	no	cv_presentations
+2020-11-05	presentation	seminar	given	BEST Collaboration student coffee hour	Introduction to hydrodynamics	seminar	Online	Online	Online	yes	no	cv_presentations
+2020-10-30	presentation	talk	given	APS DNP 2020	Jet-medium interaction at non-zero net baryon density	contributed talk	Online (East Lansing host)	Online	Online	yes	no	cv_presentations
+2020-10-29	event	meeting	attended	APS DNP Meeting 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-10-22	event	meeting	attended	RHIC/AGS Annual Users' Meeting 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-10-16	event	meeting	attended	Ohio-Region Section of the APS Autumn Meeting 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-09-04	presentation	seminar	given	Joint UH/UIUC/KSU Weekly journal club	Fluctuation dynamics near the QCD critical point	seminar	Online	Online	Online	yes	no	cv_presentations
+2020-08-11	event	meeting	attended	The JETSCAPE/X-SCAPE Collaboration Meeting 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-08-04	event	seminar	attended	Seminar series on RHIC Beam Energy Scan: Theory and Experiment			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-07-13	event	school	ta	JETSCAPE Summer School 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-05-31	event	conference	attended	Hard Probes 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-05-21	presentation	seminar	given	HENPIC e-Forum	Hydrodynamics at non-zero net baryon density and fluctuation dynamics near the QCD critical point	seminar	Online	Online	Online	yes	no	cv_presentations
+2020-05-16	presentation	talk	given	BEST Collaboration Annual Meeting 2020	Recent developments: BEShydro and BEShydro+	contributed talk	Online	Online	Online	yes	no	cv_presentations
+2020-05-16	event	meeting	attended	BEST Collaboration Annual Meeting 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-05-11	event	workshop	attended	Chirality and Criticality: Novel Phenomena in Heavy-Ion Collisions			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-04-18	event	meeting	attended	APS April Meeting 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2020-03-16	event	workshop	attended	JETSCAPE Winter School and Workshop 2020			Online	Online	Online	yes	no	cv_conferences_meetings_schools
+2019-11-19	presentation	seminar	given	Peking University HEP Seminar and Workshop	Hydrodynamics and thermalization in heavy-ion collisions	seminar	Beijing, China	Beijing	China	no	no	cv_presentations
+2019-11-03	event	conference	attended	Quark Matter 2019			Wuhan, China	Wuhan	China	no	no	cv_conferences_meetings_schools
+2019-10-31	presentation	talk	given	Workshop on new development of hydrodynamics	Hydrodynamics and thermalization in heavy-ion collisions	contributed talk	Shanghai, China	Shanghai	China	no	no	cv_presentations
+2019-10-30	event	workshop	attended	Workshop on new development and applications of hydrodynamics			Shanghai, China	Shanghai	China	no	no	cv_conferences_meetings_schools
+2019-10-16	presentation	talk	given	APS DNP Meeting 2019	Fluctuation dynamics near the QCD critical point	contributed talk	Arlington, VA, USA	Arlington	USA	no	no	cv_presentations
+2019-10-14	event	meeting	attended	APS DNP Meeting 2019			Arlington, VA, USA	Arlington	USA	no	no	cv_conferences_meetings_schools
+2019-07-08	event	school	attended	National Nuclear Physics Summer School 2019			Knoxville, TN, USA	Knoxville	USA	no	no	cv_conferences_meetings_schools
+2019-05-13	presentation	talk	given	BEST Collaboration Annual Meeting 2019	Fluctuation dynamics near the QCD critical point with Hydro+	contributed talk	Raleigh, NC, USA	Raleigh	USA	no	no	cv_presentations
+2019-05-12	event	meeting	attended	BEST Collaboration Annual Meeting 2019			Raleigh, NC, USA	Raleigh	USA	no	no	cv_conferences_meetings_schools
+2019-02-11	event	workshop	attended	JETSCAPE SIMS Group Mini-Workshop			Detroit, MI, USA	Detroit	USA	no	no	cv_conferences_meetings_schools
+2019-01-03	event	school	attended	JETSCAPE Winter School and Workshop 2019			College Station, TX, USA	College Station	USA	no	no	cv_conferences_meetings_schools
+2018-08-20	presentation	talk	given	BEST Collaboration Annual Meeting 2018	Hybrid model with dynamical sources for heavy-ion collisions at BES energies	contributed talk	Berkeley, CA, USA	Berkeley	USA	no	no	cv_presentations
+2018-08-20	event	meeting	attended	BEST Collaboration Annual Meeting 2018			Berkeley, CA, USA	Berkeley	USA	no	no	cv_conferences_meetings_schools
+2018-07-02	presentation	seminar	given	Central China Normal University seminar	Dynamical initialization and baryon evolution in hybrid models of heavy-ion collisions	seminar	Wuhan, China	Wuhan	China	no	no	cv_presentations
+2018-06-26	presentation	seminar	given	Peking University seminar	Dynamical initialization and baryon evolution in hybrid models of heavy-ion collisions	seminar	Beijing, China	Beijing	China	no	no	cv_presentations
+2018-05-30	presentation	seminar	given	ECT* Doctoral Training Program	Dynamical initialization of heavy-ion collisions at BES energies	seminar	Trento, Italy	Trento	Italy	no	no	cv_presentations
+2018-05-28	event	school	attended	ECT* Doctoral Training Program 2018			Trento, Italy	Trento	Italy	no	no	cv_conferences_meetings_schools
+2018-05-16	presentation	talk	given	Quark Matter 2018	Hybrid model of heavy-ion collisions at BES energies with dynamical sources	contributed talk	Venice, Italy	Venice	Italy	no	no	cv_presentations
+2018-05-13	event	conference	attended	Quark Matter 2018			Venice, Italy	Venice	Italy	no	no	cv_conferences_meetings_schools
+2018-04-16	presentation	talk	given	APS April Meeting 2018	(3+1)D hybrid model of heavy-ion collisions at BES energies with dynamical sources	contributed talk	Columbus, OH, USA	Columbus	USA	no	no	cv_presentations
+2018-04-14	event	meeting	attended	APS April Meeting 2018			Columbus, OH, USA	Columbus	USA	no	no	cv_conferences_meetings_schools
+2018-01-03	event	school	attended	JETSCAPE Winter School and Workshop 2018			Berkeley, CA, USA	Berkeley	USA	no	no	cv_conferences_meetings_schools
+2017-08-05	event	meeting	attended	BEST Collaboration Annual Meeting 2017			Stony Brook, NY, USA	Stony Brook	USA	no	no	cv_conferences_meetings_schools
+2017-08-01	event	meeting	attended	JETSCAPE Collaboration Meeting 2017			Columbus, OH, USA	Columbus	USA	no	no	cv_conferences_meetings_schools
