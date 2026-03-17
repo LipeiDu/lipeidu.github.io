@@ -41,7 +41,7 @@ The Ohio State University, 2021
 Advisor: Ulrich Heinz  
 Thesis: *Hydrodynamic description of the baryon-charged quark-gluon plasma*
 
-## Honors
+## Selected Honors
 
 - RHIC and AGS Merit Award (2025) for contributions to hydrodynamics, critical phenomena, electromagnetic probes of baryon-rich matter, and baryon stopping
 - Oral Presentation Prize, International Conference on Nucleus-Nucleus Collisions (2024)
@@ -52,9 +52,9 @@ Thesis: *Hydrodynamic description of the baryon-charged quark-gluon plasma*
 - **Strangeness in Quark Matter 2026** (Invited Plenary)  
   *Theory Overview: Dynamical Model Simulations for Heavy-Ion Collisions*
 - **Initial Stages 2025** (Invited Plenary)  
-  *Declined for travel constraints*
+  *Declined due to travel constraints*
 - **ATHIC 2025** (Invited Plenary)  
-  *Declined for travel constraints*
+  *Declined due to travel constraints*
 - **Hard Probes 2024** (Invited Plenary)  
   *Electromagnetic and Weak Probes: Theory*
 - **CPOD 2024** (Invited Plenary)  
