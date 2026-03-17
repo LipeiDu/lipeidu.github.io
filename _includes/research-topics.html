@@ -1,0 +1,63 @@
+{% include base_path %}
+
+{% for topic in page.research_topics %}
+  <section class="research-topic">
+    <div class="research-topic__header">
+      <div class="research-topic__content">
+        <p class="research-topic__eyebrow">Recent work</p>
+        <h2 class="research-topic__title">{{ topic.title }}</h2>
+        {% if topic.summary %}
+          <div class="research-topic__summary">{{ topic.summary | markdownify }}</div>
+        {% endif %}
+      </div>
+
+      {% if topic.image %}
+        <div class="research-topic__media">
+          <img src="{% if topic.image contains '://' %}{{ topic.image }}{% else %}{{ topic.image | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ topic.image_alt | default: topic.title }}">
+          {% if topic.image_caption %}
+            <p class="research-topic__caption">{{ topic.image_caption }}</p>
+          {% endif %}
+        </div>
+      {% endif %}
+    </div>
+
+    {% if topic.publications %}
+      <div class="research-topic__studies">
+        {% for publication in topic.publications %}
+          <article class="research-study">
+            {% if publication.image %}
+              <div class="research-study__media">
+                <img src="{% if publication.image contains '://' %}{{ publication.image }}{% else %}{{ publication.image | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ publication.image_alt | default: publication.title }}">
+              </div>
+            {% endif %}
+
+            <div class="research-study__body">
+              <h3 class="research-study__title">{{ publication.title }}</h3>
+
+              {% if publication.authors or publication.venue or publication.year %}
+                <p class="research-study__meta">
+                  {% if publication.authors %}{{ publication.authors }}{% endif %}
+                  {% if publication.authors and publication.venue %}<br>{% endif %}
+                  {% if publication.venue %}<span>{{ publication.venue }}</span>{% endif %}
+                  {% if publication.year %} ({{ publication.year }}){% endif %}
+                </p>
+              {% endif %}
+
+              {% if publication.summary %}
+                <div class="research-study__summary">{{ publication.summary | markdownify }}</div>
+              {% endif %}
+
+              {% if publication.links %}
+                <div class="research-study__links">
+                  {% for link in publication.links %}
+                    <a class="btn btn--primary" href="{{ link.url }}">{{ link.label }}</a>
+                  {% endfor %}
+                </div>
+              {% endif %}
+            </div>
+          </article>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </section>
+{% endfor %}
