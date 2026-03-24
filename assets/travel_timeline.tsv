@@ -1,4 +1,8 @@
 sort_date	record_type	category	status	display_title	presentation_title	presentation_type	location_display	city	country	online	privacy_redacted	source	end_date
+2026-03-23	presentation	talk	given	The 22nd International Conference on Strangeness in Quark Matter	Theory Overview: Dynamical Model Simulations for Heavy-Ion Collisions	talk	Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	
+2026-03-22	event	conference	attended	The 22nd International Conference on Strangeness in Quark Matter			Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	2026-03-27
+2026-03-20	presentation	talk	given	Workshop on High Baryon Density Physics in High-Energy Nuclear Collisions	Theory Perspectives on Collective Flows at BES Energies	talk	Berkeley, CA, USA	Berkeley	USA	no	no	user_update	
+2026-03-19	event	workshop	attended	Workshop on High Baryon Density Physics in High-Energy Nuclear Collisions			Berkeley, CA, USA	Berkeley	USA	no	no	user_update	2026-03-20
 2025-12-15	event	meeting	attended	The JETSCAPE/X-SCAPE Collaboration Meeting 2025			Durham, NC, USA	Durham	USA	no	no	cv_conferences_meetings_schools	
 2025-10-28	presentation	talk	given	The QCD Critical Point: Are We There Yet?	Electromagnetic probes and QCD critical point	contributed talk	Seattle, WA, USA	Seattle	USA	no	no	cv_presentations	
 2025-10-27	event	workshop	attended	The QCD Critical Point: Are We There Yet?			Seattle, WA, USA	Seattle	USA	no	no	cv_conferences_meetings_schools	
