@@ -1,8 +1,9 @@
 sort_date	record_type	category	status	display_title	presentation_title	presentation_type	location_display	city	country	online	privacy_redacted	source	end_date
-2026-03-23	presentation	talk	given	The 22nd International Conference on Strangeness in Quark Matter	Theory Overview: Dynamical Model Simulations for Heavy-Ion Collisions	talk	Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	
+2026-03-23	presentation	plenary	given	The 22nd International Conference on Strangeness in Quark Matter	Theory Overview: Dynamical Model Simulations for Heavy-Ion Collisions	plenary talk	Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	
 2026-03-22	event	conference	attended	The 22nd International Conference on Strangeness in Quark Matter			Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	2026-03-27
 2026-03-20	presentation	talk	given	Workshop on High Baryon Density Physics in High-Energy Nuclear Collisions	Theory Perspectives on Collective Flows at BES Energies	talk	Berkeley, CA, USA	Berkeley	USA	no	no	user_update	
 2026-03-19	event	workshop	attended	Workshop on High Baryon Density Physics in High-Energy Nuclear Collisions			Berkeley, CA, USA	Berkeley	USA	no	no	user_update	2026-03-20
+2025-12-16	presentation	talk	given	The JETSCAPE/X-SCAPE Collaboration Meeting 2025	Hard-Soft Correlations	talk	Durham, NC, USA	Durham	USA	no	no	user_update	
 2025-12-15	event	meeting	attended	The JETSCAPE/X-SCAPE Collaboration Meeting 2025			Durham, NC, USA	Durham	USA	no	no	cv_conferences_meetings_schools	
 2025-10-28	presentation	talk	given	The QCD Critical Point: Are We There Yet?	Electromagnetic probes and QCD critical point	contributed talk	Seattle, WA, USA	Seattle	USA	no	no	cv_presentations	
 2025-10-27	event	workshop	attended	The QCD Critical Point: Are We There Yet?			Seattle, WA, USA	Seattle	USA	no	no	cv_conferences_meetings_schools	
@@ -14,6 +15,7 @@ sort_date	record_type	category	status	display_title	presentation_title	presentat
 2025-01-01	event	conference	declined	Initial Stages 2025			Declined			no	no	cv_conferences_meetings_schools	
 2025-01-01	event	conference	declined	ATHIC 2025			Declined			no	no	cv_conferences_meetings_schools	
 2024-12-16	event	workshop	attended	JETSCAPE Bayesian work week			Berkeley, CA, USA	Berkeley	USA	no	no	cv_conferences_meetings_schools	
+2024-09-28	event	workshop	attended	Jet Modification and Hard-Soft Correlations (SoftJet 2024)			Tokyo, Japan	Tokyo	Japan	no	no	user_update	2024-09-29
 2024-09-26	presentation	plenary	given	Hard Probes 2024	Electromagnetic and Weak Probes: Theory	plenary talk	Nagasaki, Japan	Nagasaki	Japan	no	no	cv_presentations	
 2024-09-22	event	conference	attended	Hard Probes 2024			Nagasaki, Japan	Nagasaki	Japan	no	no	cv_conferences_meetings_schools	
 2024-08-22	presentation	talk	given	NN 2024	Multi-observable analysis of jet quenching using Bayesian Inference	contributed talk	Whistler, BC, Canada	Whistler	Canada	no	no	cv_presentations	

@@ -7,6 +7,7 @@
     "Upton|USA": [40.8640, -72.8870],
     "Berkeley|USA": [37.8715, -122.2730],
     "Los Angeles|USA": [34.0522, -118.2437],
+    "Tokyo|Japan": [35.6762, 139.6503],
     "Nagasaki|Japan": [32.7503, 129.8777],
     "Whistler|Canada": [50.1163, -122.9574],
     "Shanghai|China": [31.2304, 121.4737],
