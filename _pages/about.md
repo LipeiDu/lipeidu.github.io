@@ -15,6 +15,7 @@ I work on the theoretical physics of relativistic heavy-ion collisions, with the
 My research combines:
 - Multistage dynamical modeling
 - Hydrodynamics and transport theory
+- QCD critical phenomena
 - Electromagnetic probes
 - Bayesian inference and machine learning
 
@@ -24,9 +25,15 @@ This program helps extract properties of QCD matter from experimental data. My c
 
 ### Positions
 
+**Assistant Project Scientist**  
+UC Berkeley  
+2026-present  
+Affiliate: Lawrence Berkeley National Laboratory  
+Advisor: Peter Jacobs
+
 **Postdoctoral Scholar**  
 UC Berkeley and Lawrence Berkeley National Laboratory  
-2024-present  
+2024-2026  
 Advisor: Peter Jacobs
 
 **Postdoctoral Researcher**  
@@ -44,7 +51,10 @@ Thesis: *Hydrodynamic description of the baryon-charged quark-gluon plasma*
 ## Selected Honors
 
 - RHIC and AGS Merit Award (2025) for contributions to hydrodynamics, critical phenomena, electromagnetic probes of baryon-rich matter, and baryon stopping
-- Oral Presentation Prize, International Conference on Nucleus-Nucleus Collisions (2024)
+  <div style="margin: 0.75rem 0 1.25rem 0;">
+    <img src="/images/merit_award.png" alt="RHIC and AGS Merit Award certificate" style="width: 100%; max-width: 420px; border: 1px solid #d6d6d6; border-radius: 4px;" />
+  </div>
+- Young Scientist Prize (Oral Presentation), International Conference on Nucleus-Nucleus Collisions (2024)
 - McGill Postdoctoral Teaching Excellence Award (2023)
 
 ## Selected Invited and Plenary Talks
