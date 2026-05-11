@@ -1,4 +1,6 @@
 sort_date	record_type	category	status	display_title	presentation_title	presentation_type	location_display	city	country	online	privacy_redacted	source	end_date
+2026-05-11	presentation	talk	given	2026 RHIC/AGS Annual Users' Meeting	Probing the QCD Phase Diagram at the EIC: Modeling High-Baryon Density Fluids in the Fixed-Target Regime	talk	Upton, NY, USA	Upton	USA	no	no	user_update	
+2026-05-11	event	meeting	attended	2026 RHIC/AGS Annual Users' Meeting			Upton, NY, USA	Upton	USA	no	no	user_update	2026-05-15
 2026-03-26	presentation	poster	given	The 22nd International Conference on Strangeness in Quark Matter	From collective flow to hadronization dynamics: Tracing soft-to-hard interplay with the radial-flow fluctuations v0(pT)	poster	Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	
 2026-03-23	presentation	plenary	given	The 22nd International Conference on Strangeness in Quark Matter	Theory Overview: Dynamical Model Simulations for Heavy-Ion Collisions	plenary talk	Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	
 2026-03-22	event	conference	attended	The 22nd International Conference on Strangeness in Quark Matter			Los Angeles, CA, USA	Los Angeles	USA	no	no	user_update	2026-03-27
