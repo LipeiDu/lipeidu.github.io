@@ -1,6 +1,7 @@
 (function () {
   var COORDS = {
     "Durham|USA": [35.9940, -78.8986],
+    "Nashville|USA": [36.1627, -86.7816],
     "Seattle|USA": [47.6062, -122.3321],
     "Beijing|China": [39.9042, 116.4074],
     "Columbus|USA": [39.9612, -82.9988],
