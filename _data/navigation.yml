@@ -1,0 +1,8 @@
+# Main navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Presentations"
+    url: /presentations/

@@ -1,0 +1,83 @@
+# Lipei Du's personal website (Academic Pages / Minimal Mistakes, MIT licensed).
+locale: en-US
+title: Lipei Du
+title_separator: "-"
+name: Lipei Du
+description: "Theoretical nuclear physicist developing dynamical and Bayesian methods to understand quark-gluon plasma across energy and momentum scales."
+url: https://lipeidu.github.io
+baseurl: ""
+repository: LipeiDu/lipeidu.github.io
+breadcrumbs: false
+words_per_minute: 160
+future: true
+read_more: disabled
+og_image: ldu_2026.JPG
+
+author:
+  name: Lipei Du
+  avatar: ldu_2026.JPG
+  bio: "Assistant Project Scientist at UC Berkeley; Affiliate at Lawrence Berkeley National Laboratory"
+  location: "Berkeley, CA, USA"
+  email: lipei.du@berkeley.edu
+  github: LipeiDu
+  inspire: "https://inspirehep.net/authors/1280397?ui-citation-summary=true"
+
+social:
+  type: Person
+  name: Lipei Du
+  links:
+    - https://inspirehep.net/authors/1280397
+    - https://github.com/LipeiDu
+
+analytics:
+  provider: false
+comments:
+  provider: false
+
+include:
+  - _pages
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - tmp
+
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      published: false
+      author_profile: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
+timezone: America/Los_Angeles
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

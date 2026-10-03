@@ -1,0 +1,19 @@
+{% include base_path %}
+
+<!-- start custom head snippets -->
+
+<link rel="icon" href="{{ base_path }}/images/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="{{ base_path }}/images/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="{{ base_path }}/images/manifest.json">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+{% if page.mathjax %}
+<script>
+  window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], processEscapes: true } };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
+
+<!-- end custom head snippets -->
