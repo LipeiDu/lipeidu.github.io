@@ -64,6 +64,6 @@ excerpt: "Academic presentations, conferences, workshops, seminars, and schools 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <script src="{{ '/talkmap/leaflet_dist/leaflet.markercluster-src.js' | relative_url }}"></script>
 <script>
-  window.TRAVEL_TIMELINE_TSV_URL = "{{ '/assets/travel_timeline.tsv' | relative_url }}?v=20261001-4";
+  window.TRAVEL_TIMELINE_TSV_URL = "{{ '/assets/travel_timeline.tsv' | relative_url }}?v=20261009-1";
 </script>
-<script src="{{ '/assets/js/travel-map.js' | relative_url }}?v=20261001-4"></script>
+<script src="{{ '/assets/js/travel-map.js' | relative_url }}?v=20261009-1"></script>

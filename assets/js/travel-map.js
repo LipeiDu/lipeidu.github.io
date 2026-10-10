@@ -202,12 +202,12 @@
     var eventUrl = safeUrl(row.event_url);
     var resourceUrl = safeUrl(row.resource_url);
 
-    if (eventUrl) {
+    if (row.record_type === "event" && eventUrl) {
       links.push('<a href="' + escapeHtml(eventUrl) + '" target="_blank" rel="noopener noreferrer">Event</a>');
     }
-    if (resourceUrl && resourceUrl !== eventUrl) {
+    if (row.record_type === "presentation" && resourceUrl && resourceUrl !== eventUrl) {
       links.push('<a href="' + escapeHtml(resourceUrl) + '" target="_blank" rel="noopener noreferrer">' +
-        escapeHtml(row.resource_label || "Materials") + '</a>');
+        'Presentation</a>');
     }
     return links.length ? links.join(" · ") : '<span class="travel-muted">—</span>';
   }
