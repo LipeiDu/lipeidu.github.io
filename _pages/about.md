@@ -35,8 +35,7 @@ This program helps extract properties of QCD matter from experimental data. My c
 **Assistant Project Scientist**  
 UC Berkeley  
 2026-present  
-Affiliate: Lawrence Berkeley National Laboratory  
-Advisor: Peter Jacobs
+Affiliate: Lawrence Berkeley National Laboratory
 
 **Postdoctoral Scholar**  
 UC Berkeley and Lawrence Berkeley National Laboratory  
