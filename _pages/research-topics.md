@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 published: true
 mathjax: true
-excerpt: "Recent research on baryon dynamics, critical and collective fluctuations, electromagnetic probes, and correlations across momentum scales."
+excerpt: "Recent research on baryon dynamics, critical and collective fluctuations, electromagnetic probes, correlations across momentum scales, and Bayesian inference."
 ---
 
 This page highlights some of the research topics I have been working on recently.
@@ -17,6 +17,7 @@ This page highlights some of the research topics I have been working on recently
     <li><a href="#critical-fluctuations-and-the-search-for-the-qcd-critical-point">Critical fluctuations and QCD criticality</a></li>
     <li><a href="#electromagnetic-probes-and-multimessenger-perspectives">Electromagnetic probes and multimessenger perspectives</a></li>
     <li><a href="#collective-fluctuations-and-dynamical-correlations-across-momentum-scales">Collective fluctuations across momentum scales</a></li>
+    <li><a href="#bayesian-inference-and-the-information-structure-of-heavy-ion-data">Bayesian inference and information structure</a></li>
   </ol>
 </nav>
 
@@ -141,6 +142,26 @@ Together, these studies progress from global transverse-momentum fluctuations, t
 
 - **Dynamical correlations across momentum scales in the Quark-Gluon Plasma**<br>
   **L. Du**, P. M. Jacobs, *Phys. Lett. B* **881**, 140874 (2026) · [arXiv:2512.10265](https://arxiv.org/abs/2512.10265) · [DOI](https://doi.org/10.1016/j.physletb.2026.140874)
+
+---
+
+## Bayesian inference and the information structure of heavy-ion data
+
+Modern heavy-ion analyses increasingly combine many observables and physics sectors to constrain the properties of QCD matter. Doing so raises a basic inference question: how should information be transferred when datasets are statistically correlated or depend on shared model parameters? My work in this direction focuses on separating genuinely new information from information already contained in previous measurements, and on propagating uncertainties consistently across coupled sectors of heavy-ion phenomenology.
+
+**Consistent sequential inference with correlated datasets.** Bayesian analyses often reuse the posterior from one study as the prior for another. When the datasets are correlated, however, treating the second likelihood as independent can effectively double-count information and distort the inferred parameters. In a controlled study, I compared joint inference, conventional factorized sequential updates, and exact conditional updates. The conditional construction reproduces the joint result and provides a natural way to distinguish information that is genuinely new from information already shared between datasets.
+
+**Bridging soft and hard sectors through Bayesian inference.** A related problem arises when different observables probe physically coupled sectors. In heavy-ion collisions, bulk-medium properties are commonly calibrated with soft hadrons before hard-probe parameters are inferred with the medium held fixed. Within the JETSCAPE Collaboration, I have been developing a reduced joint soft–hard Bayesian analysis in which selected medium and energy-loss parameters vary together. This proof of concept indicates that fixing the bulk can underestimate uncertainties in hard-sector parameters, while hard observables can in turn provide additional constraints on selected medium properties.
+
+Together, these studies address two complementary aspects of information flow: statistical information shared between correlated datasets and physical constraints transferred between coupled sectors. More broadly, they aim to make multi-observable Bayesian inference not only a tool for extracting parameter ranges, but also a way to understand what different measurements actually constrain and how their information should be combined.
+
+### Selected studies and presentations
+
+- **Sequential Bayesian inference with correlated heavy-ion datasets**<br>
+  **L. Du**, submitted to *Phys. Lett. B* (2026) · [arXiv:2605.17868](https://arxiv.org/abs/2605.17868)
+
+- **Bridging soft and hard Bayesian inference in heavy-ion collisions**<br>
+  **L. Du**, on behalf of the JETSCAPE Collaboration, *Hard Probes 2026*, oral presentation; ongoing research · [Conference abstract and slides](https://indico.cern.ch/event/1428985/contributions/6971782/)
 
 ---
 
