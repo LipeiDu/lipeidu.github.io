@@ -100,13 +100,8 @@ For a full publication list: [INSPIRE-HEP author profile](https://inspirehep.net
 
 ## Selected Teaching Experience
 
-<strong>Lecturer — Majors Electricity and Magnetism, McGill University (Fall 2022)</strong><br>
-Designed and taught a 39-hour undergraduate course for approximately 50 students, including lectures, assignments, quizzes, examinations, and detailed solutions.
-
-<strong>Lecturer — Introduction to Heavy-Ion Physics, McGill University (Summer 2022)</strong><br>
-Developed and delivered a ten-lecture, 15-hour introduction for first-year graduate students, covering the foundations of heavy-ion collisions, multistage theoretical modeling, and relativistic hydrodynamics.
-
-<strong>Lecturer and Teaching Assistant — JETSCAPE Summer Schools (2020–2022)</strong><br>
-Lectured on the bulk dynamics of the quark–gluon plasma in 2022 and served as a teaching assistant and secondary instructor in the 2020 and 2021 summer schools.
+My teaching includes undergraduate electricity and magnetism, graduate lectures on heavy-ion physics, and hydrodynamics lectures and computational exercises at the JETSCAPE summer schools.
 
 This work was recognized with the **2023 McGill Association of Postdoctoral Fellows Teaching Excellence Award**.
+
+[Teaching experience and public course materials]({{ '/teaching/' | relative_url }}).
