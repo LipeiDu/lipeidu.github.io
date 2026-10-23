@@ -93,3 +93,32 @@
   font-size: 0.8rem !important;
   font-style: italic;
 }
+
+.resource-figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.resource-figure {
+  display: block;
+  min-width: 0;
+  margin: 0;
+
+  > a {
+    cursor: zoom-in;
+  }
+
+  img {
+    display: block;
+    height: auto;
+    margin-bottom: 0.75rem;
+  }
+
+  figcaption p {
+    margin: 0 0 0.75rem;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+}
