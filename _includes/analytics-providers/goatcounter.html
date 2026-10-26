@@ -1,0 +1,5 @@
+{% assign goatcounter_code = site.analytics.goatcounter.site_code | default: "" | strip %}
+{% if jekyll.environment == "production" and goatcounter_code != "" %}
+<script data-goatcounter="https://{{ goatcounter_code | escape }}.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+{% endif %}

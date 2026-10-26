@@ -25,6 +25,22 @@ Run `bundle install`, then:
 bundle exec jekyll serve --config _config.yml,_config.dev.yml --port 4001
 ```
 
+## Private visitor analytics
+
+GoatCounter records visits on production builds only. Set
+`analytics.goatcounter.site_code` in `_config.yml` to the account name from the
+dashboard URL (the part before `.goatcounter.com`). Until this is configured, no
+analytics script is included. Local development builds do not record visits.
+
+Keep the GoatCounter dashboard private and leave "Allow adding visitor counts on
+your website" disabled in the account's site settings. These controls are managed
+in GoatCounter, not by this repository. The website does not display a counter.
+No passwords or API tokens belong in the site configuration.
+
+To exclude your own visits, use "disable for this browser" in GoatCounter's
+tracking settings in each browser you use to view the website. Visit totals and
+data exports are available at https://lpdu318.goatcounter.com/ after signing in.
+
 ## Repository arrangement
 
 This website has independent Git history and lives at `website/` within the

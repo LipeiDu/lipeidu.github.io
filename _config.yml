@@ -30,7 +30,9 @@ social:
     - https://github.com/LipeiDu
 
 analytics:
-  provider: false
+  provider: goatcounter
+  goatcounter:
+    site_code: lpdu318
 comments:
   provider: false
 
